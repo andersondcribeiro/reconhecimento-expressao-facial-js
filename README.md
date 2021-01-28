@@ -1,4 +1,4 @@
-<h1>Realtime face expression recognition with JavaScript and face API JS library built on Tensor Flow <h1>
+<h1>Realtime face expression recognition with JavaScript and face API JS library built on Tensor Flow </h1>
 
 
 [Code example](https://bit.ly/3iSNKQ2)( need permission to use the camera via browser)
